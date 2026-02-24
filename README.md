@@ -33,4 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/0912-sort-an-array) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/pawanmartha8816/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
+## String
+|  |
+| ------- |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/pawanmartha8816/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
+## Stack
+|  |
+| ------- |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/pawanmartha8816/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 <!---LeetCode Topics End-->
