@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/0912-sort-an-array) |
+| [1920-build-array-from-permutation](https://github.com/pawanmartha8816/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pawanmartha8816/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Divide and Conquer
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pawanmartha8816/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/pawanmartha8816/Leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
