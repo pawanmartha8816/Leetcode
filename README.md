@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/pawanmartha8816/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/pawanmartha8816/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/pawanmartha8816/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pawanmartha8816/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/pawanmartha8816/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/pawanmartha8816/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/pawanmartha8816/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/0912-sort-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pawanmartha8816/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/pawanmartha8816/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/pawanmartha8816/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pawanmartha8816/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pawanmartha8816/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
