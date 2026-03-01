@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pawanmartha8816/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/pawanmartha8816/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/0912-sort-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pawanmartha8816/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/pawanmartha8816/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pawanmartha8816/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pawanmartha8816/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/pawanmartha8816/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/pawanmartha8816/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/pawanmartha8816/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Number Theory
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pawanmartha8816/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/pawanmartha8816/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Prefix Sum
@@ -106,5 +111,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pawanmartha8816/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
