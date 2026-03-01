@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/pawanmartha8816/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/pawanmartha8816/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0507-perfect-number) |
